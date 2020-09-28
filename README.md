@@ -1,7 +1,7 @@
 # setup
 
-Make a virtual enviornment
-`pip install pytest`
+ - Make a virtual enviornment
+ - `pip install pytest`
 
 # to reproduce
 
